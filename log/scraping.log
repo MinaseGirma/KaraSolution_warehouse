@@ -1,0 +1,107 @@
+2025-01-31 17:31:26,085 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-01-31 17:31:27,963 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-31 17:31:29,234 - INFO - Phone migrated to 4
+2025-01-31 17:31:29,415 - INFO - Reconnecting to new data center 4
+2025-01-31 17:31:29,797 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-31 17:31:29,799 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-31 17:31:29,800 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:31:31,805 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:32:13,684 - INFO - Client started successfully.
+2025-01-31 17:32:13,705 - ERROR - Error while scraping @CheMed123@lobelia4cosmetics: Cannot find any entity corresponding to "@CheMed123@lobelia4cosmetics"
+2025-01-31 17:32:13,706 - INFO - Scraped data from @CheMed123@lobelia4cosmetics.
+2025-01-31 17:33:06,023 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:33:06,141 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:33:06,361 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 17:33:07,117 - INFO - Client started successfully.
+2025-01-31 17:33:07,120 - ERROR - Error while scraping @CheMed123@lobelia4cosmetics: Cannot find any entity corresponding to "@CheMed123@lobelia4cosmetics"
+2025-01-31 17:33:07,120 - INFO - Scraped data from @CheMed123@lobelia4cosmetics.
+2025-01-31 17:35:05,251 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:35:05,382 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:35:05,635 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 17:35:06,346 - INFO - Client started successfully.
+2025-01-31 17:35:06,350 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2025-01-31 17:52:33,820 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:52:33,840 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:34,854 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:35,869 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:36,880 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:37,883 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:38,896 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:39,908 - ERROR - Error in main function: Connection to Telegram failed 5 time(s)
+2025-01-31 17:52:42,472 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:52:42,473 - WARNING - Attempt 1 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:43,487 - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:44,499 - WARNING - Attempt 3 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:45,502 - WARNING - Attempt 4 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:46,513 - WARNING - Attempt 5 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:47,518 - WARNING - Attempt 6 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2025-01-31 17:52:48,525 - ERROR - Error in main function: Connection to Telegram failed 5 time(s)
+2025-01-31 17:54:56,564 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:54:56,683 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:54:57,015 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 17:54:57,989 - INFO - Client started successfully.
+2025-01-31 17:54:58,216 - WARNING - No last ID file found for @CheMed123. Starting from 0.
+2025-01-31 17:54:58,829 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 17:54:59,780 - INFO - Downloaded media for message ID 97.
+2025-01-31 17:54:59,780 - INFO - Processed message ID 97 from @CheMed123.
+2025-01-31 17:54:59,782 - INFO - Saved last processed ID 97 for @CheMed123.
+2025-01-31 17:54:59,784 - INFO - Scraped data from @CheMed123.
+2025-01-31 17:54:59,925 - WARNING - No last ID file found for @lobelia4cosmetics. Starting from 0.
+2025-01-31 17:55:00,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 17:55:04,534 - INFO - Downloaded media for message ID 15208.
+2025-01-31 17:55:04,535 - INFO - Processed message ID 15208 from @lobelia4cosmetics.
+2025-01-31 17:55:27,993 - INFO - Saved last processed ID 15208 for @lobelia4cosmetics.
+2025-01-31 17:55:28,008 - INFO - Scraped data from @lobelia4cosmetics.
+2025-01-31 17:56:15,278 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:56:15,394 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:56:15,679 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 17:56:16,616 - INFO - Client started successfully.
+2025-01-31 17:56:17,508 - INFO - Saved last processed ID 97 for @CheMed123.
+2025-01-31 17:56:17,510 - INFO - No new messages found for @CheMed123.
+2025-01-31 17:56:17,510 - INFO - Scraped data from @CheMed123.
+2025-01-31 17:56:40,984 - INFO - Saved last processed ID 15208 for @lobelia4cosmetics.
+2025-01-31 17:56:40,986 - INFO - No new messages found for @lobelia4cosmetics.
+2025-01-31 17:56:40,986 - INFO - Scraped data from @lobelia4cosmetics.
+2025-01-31 17:59:13,020 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 17:59:14,335 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 17:59:15,194 - INFO - System clock is wrong, set time offset to -200s
+2025-01-31 17:59:20,767 - INFO - Client started successfully.
+2025-01-31 17:59:20,770 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2025-01-31 18:00:35,710 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:00:35,825 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:00:36,122 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:00:37,372 - INFO - Client started successfully.
+2025-01-31 18:00:37,374 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2025-01-31 18:01:30,788 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:01:30,905 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:01:31,290 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:01:32,139 - INFO - Client started successfully.
+2025-01-31 18:01:32,143 - ERROR - Error reading channels from JSON: Expecting ',' delimiter: line 4 column 9 (char 49)
+2025-01-31 18:02:01,466 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:02:01,593 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:02:02,187 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:02:03,051 - INFO - Client started successfully.
+2025-01-31 18:02:03,052 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2025-01-31 18:06:04,489 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:06:05,656 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:06:05,989 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:06:06,713 - INFO - Client started successfully.
+2025-01-31 18:06:06,755 - ERROR - Error while scraping @CheMed123@lobelia4cosmetics: Cannot find any entity corresponding to "@CheMed123@lobelia4cosmetics"
+2025-01-31 18:06:06,755 - INFO - Scraped data from @CheMed123@lobelia4cosmetics.
+2025-01-31 18:06:34,004 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:06:34,124 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:06:34,487 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:06:35,219 - INFO - Client started successfully.
+2025-01-31 18:06:35,221 - ERROR - Error while scraping @CheMed123@lobelia4cosmetics: Cannot find any entity corresponding to "@CheMed123@lobelia4cosmetics"
+2025-01-31 18:06:35,221 - INFO - Scraped data from @CheMed123@lobelia4cosmetics.
+2025-01-31 18:07:02,471 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 18:07:02,589 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 18:07:03,304 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 18:07:03,967 - INFO - Client started successfully.
+2025-01-31 18:07:03,971 - ERROR - Error while scraping @CheMed123@lobelia4cosmetics: Cannot find any entity corresponding to "@CheMed123@lobelia4cosmetics"
+2025-01-31 18:07:03,971 - INFO - Scraped data from @CheMed123@lobelia4cosmetics.
+2025-01-31 19:07:31,650 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 19:07:31,783 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 19:07:32,132 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 19:07:32,978 - INFO - Client started successfully.
+2025-01-31 19:07:32,979 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'

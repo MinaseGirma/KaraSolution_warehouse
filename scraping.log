@@ -1,0 +1,10 @@
+2025-01-31 19:12:16,261 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 19:12:16,383 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 19:12:16,717 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 19:12:17,490 - INFO - Client started successfully.
+2025-01-31 19:12:17,493 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: '..scripts/channels.json'
+2025-01-31 21:44:11,747 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 21:44:11,910 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 21:44:12,223 - INFO - System clock is wrong, set time offset to -199s
+2025-01-31 21:44:13,140 - INFO - Client started successfully.
+2025-01-31 21:44:13,142 - ERROR - Error reading channels from JSON: Expecting ',' delimiter: line 4 column 9 (char 49)
