@@ -71,11 +71,11 @@ async def main():
         # Load channels from JSON file
         channels, comments = load_channels_from_json('channels.json')
         
-        num_messages_to_scrape = 20  # Specify the number of messages to scrape
+        num_messages_to_scrape = 100  # Specify the number of messages to scrape
 
         for channel in channels:
             # Create a CSV file named after the channel
-            csv_filename = f"{channel[1:]}_data.csv"  # Remove '@' from channel name
+            csv_filename = "scraped_data.csv"  # Remove '@' from channel name
             with open(csv_filename, 'a', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
                 writer.writerow(['Channel Title', 'Channel Username', 'ID', 'Message', 'Date', 'Media Path'])
